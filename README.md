@@ -2,11 +2,15 @@
 Program to visualize sorting Algorithms
 
 <h3>1.Introduction:</h3>
+
     ##### 1.1 - purpose
+    
         In the need to develop my programming and skills and with the help of my best professor, I have built an simple program
         to visualise sorting algorithms making them easier to understand
 <h3>2.Getting Started:</h3>
+
    ##### 2.1 - Installation Instruction
+   
         Python language and some python libraries listed:
             - Tkinter, to install type : "pip install tkinter" in your python terminal
 
