@@ -2,11 +2,11 @@
 Program to visualize sorting Algorithms
 
 <h3>1.Introduction:</h3>
-    1.1 - purpose
+    ##### 1.1 - purpose
         In the need to develop my programming and skills and with the help of my best professor, I have built an simple program
         to visualise sorting algorithms making them easier to understand
 <h3>2.Getting Started:</h3>
-    2.1 - Installation Instruction
+   ##### 2.1 - Installation Instruction
         Python language and some python libraries listed:
             - Tkinter, to install type : "pip install tkinter" in your python terminal
 
@@ -14,13 +14,13 @@ Program to visualize sorting Algorithms
 
             - numpy, to install type: "pip install numpy"
         and you should be good to go 
-    2.2 - Quick Start
+   ##### 2.2 - Quick Start
         launch the file in any text editer and start it, a microsoft window should pop up and thats the program itself
 <h3>3.Usage:</h3>
-    3.1 - How to use
+   ##### 3.1 - How to use
         the program is very simple and straight forward its divided into two parts a graph on the right and a simple GUI on the
         left to control the graph I call it the toolbar
-    3.2 - The GUI:
+   ##### 3.2 - The GUI:
         - The Graph: there is nothing interactive on the right part of the window (the graph part) purely visual. Altho the right part is where
         all the visuals happen, the graph will change and update showcasing the sorting algorithms at work
 
